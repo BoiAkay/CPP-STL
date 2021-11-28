@@ -9,7 +9,7 @@ This is STL cheat sheet in cc++. Competitive coder knows important of STL, so th
   </li>
   <li>Declarations</li>
     <ol>
-      <li>array<Data_Type, Size> Name</li>
+      <li><p>array<Data_Type, Size> Name</p></li>
     </ol>
   <li>Milk</li>
 </ul>
